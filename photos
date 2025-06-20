@@ -1,0 +1,8 @@
+
+<section id="photos">
+  <h2>Photos</h2>
+  <div class="photos">
+    <img src="https://via.placeholder.com/800x400?text=Presley+Photo+1" alt="Presley 1" />
+    <img src="https://via.placeholder.com/800x400?text=Presley+Photo+2" alt="Presley 2" />
+  </div>
+</section>
